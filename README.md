@@ -17,7 +17,7 @@
 - 📚 Passionate about building modern UI  
 - ⚡ I turn ideas into real websites
 - [visit my website](https://sobhy-project.vercel.app/)
-- [visit my website](https://al-hakim.vercel.app/)
+
 
 ---
 
